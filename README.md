@@ -5,7 +5,11 @@
 
 目录结构:
 cookie: 存放cookie
+
 images: 存放爬取到的图片
+
 spider: 几个爬虫的主要代码在这里
+
 tool: zheye,一个第三方包,用于识别知乎的倒立文字验证码,此外还有一些脚本
+
 util : MD5加密等===
